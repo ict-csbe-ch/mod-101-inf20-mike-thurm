@@ -1,0 +1,246 @@
+
+body {margin-left: 0; margin-right: 0; margin-top: 0;}
+.img1 {
+    background-image: url("../img/minecraft.jpg");
+    width: 635px;
+    padding: 320px;
+    background-position: center;
+}
+.mclogo {  width: auto; height: 300px;}
+.mcback {background-image: url("../img/minecraftsky.png")}
+.text1 {background-image: url("../img/minecraftsky.png");width: auto;padding: 50px;}
+.title1 { padding: 8px;}
+.text1img {float: right; width: auto; height: 340px; margin-right: -100px; }
+.text11 {position: center; color: black;margin-top: 50px; margin-left: 200px;font-size: 20px; }
+.text22 {font-size: 20px;}
+.footer1 {float: right; color: white;}
+.footer2 {float: left; color: white;}
+.text {color: white; position: center;}
+.mctitle1 {color: blue; font-size: 50px;}
+.text2 {
+    background-color: darkgoldenrod;
+    width: auto;
+    padding: 50px;
+}
+.text3 {
+    background-color: white;
+    width: auto;
+    padding: 50px;
+}
+.fill {
+    background-color: white;
+    width: auto;
+    padding: 250px;
+}
+.text5 {
+    background-color: white;
+    width: auto;
+    padding: 50px;
+}
+.text4 {
+    background-color: lightskyblue;
+    width: auto;
+    padding: 50px;
+}
+.footer {
+    background-color: black;
+    width: auto;
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+a.link:link{color: white}
+a.link:visited{color: gray}
+a.link:active{color: darkred}
+a.link:hover{color: red}
+
+a.link1:link{color: white}
+a.link1:visited{color: white}
+a.link1:active{color: darkred}
+a.link1:hover{color: red}
+
+.imagined {
+    background-image: url("../img/datenschutz.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+.ACback {background-image: url("../img/ACBACKt.png");background-size: cover;background-repeat: no-repeat;}
+
+.AClogo { width: auto; height: auto;}
+.ACfill {width: auto; height: 1000px;}
+.ACfill1 {width: auto; height: 200px;}
+.ACfill2 {width: auto; height: 100px;}
+
+.ACtext1 {color: black; font-size: 25px;}
+.ACtext2 {color: black; font-size: 20px;}
+.ACtitle1 {font-size: 50px; color: black;}
+.ACback1 {background-color: gainsboro; width: auto; height: 1000px; padding: 50px;}
+.ACback2 {background-color: gainsboro; width: auto; height: 2500px; padding: 50px;}
+.ACtextbox1 {width: 600px; height: 230px; background-color: white; padding: 40px; margin-left: -40%; }
+.ACtextbox2 {width: 600px; height: 350px; background-color: white; padding: 40px; margin-left: 40%;}
+.ACtextbox3 {width: 500px; height: 100px; background-color: gainsboro; padding: 40px; }
+.ACtextbox4 {width: 500px; height: 100px; background-color: gainsboro; padding: 40px; margin-left: -50%}
+.ACtextbox5 {width: 500px; height: 100px; background-color: gainsboro; padding: 40px; margin-left: -50%}
+.ACtextbox6 {width: 800px; height: 300px; background-color: white; padding: 40px;}
+.ACimg1 {width: auto; height: 300px; margin-left: 30%; margin-top: -25%; }
+.ACimg2 {width: auto; height: 400px; margin-left: 10%; margin-top: -40%;}
+.ACvid1 {width: 800px; margin-left: 30%; margin-top: -20%;}
+.ACmap {width: auto; height: auto}
+.ACtitle2 {color: darkorange; font-size: 50px;}
+.ACtitle3  {color: darkorange; font-size: 40px;}
+
+
+.TWback { background-image: url("../img/587508.png"); background-size: cover;background-repeat: no-repeat;}
+.TWfill {width: auto; height: 1000px;}
+.TWfill1 {width: auto; height: 300px;}
+.TWfill2  {width: auto; height: 100px;}
+.TWback1 {background-color: gainsboro; width: auto; height: 800px;  padding: 50px;}
+.TWback2 {background-color: gainsboro; width: auto; height: 4500px; padding: 50px;}
+.TWtextbox1 {width: 800px; height: 400px; background-color: white; padding: 40px; margin-left: -45%; margin-top: 1%}
+.TWtextbox2 {width: 700px; height: 500px; background-color: gainsboro; padding: 40px;  margin-left: -40%;}
+.TWtextbox3 {width: 700px; height: 500px; background-color: gainsboro; padding: 40px;  margin-left: 40%;}
+.TWtextbox4 {width: 600px; height: 300px; background-color: gainsboro; padding: 40px;  margin-left: -40%;}
+.TWtextbox5 {width: 600px; height: 350px; background-color: gainsboro; padding: 40px;  margin-left: 40%;}
+.TWtextbox6 {width: 700px; height: 370px; background-color: white; padding: 40px; margin-left: -40%; }
+.TWtextbox7 {width: 700px; height: 500px; background-color: white; padding: 40px; margin-left: 40%;}
+.TWtextbox8 {width: 700px; height: 370px; background-color: white; padding: 40px; margin-left: -40%;}
+.TWtextbox9 {width: 500px; height: 200px; background-color: white; padding: 40px; margin-left: 40%;}
+.TWtextbox10 {width: 700px; height: 200px; background-color: white; padding: 40px; margin-left: -40%;}
+.TWimg1 {width: auto; height: 400px; margin-left: 50%; margin-top: -40%}
+.TWimg2 {width: auto; height: 500px; margin-left: 50%; margin-top: -40%}
+.TWimg3 {width: auto; height: 500px; margin-left: -50%; margin-top: -40%}
+.TWimg4 {width: auto; height: 500px; margin-left: 50%; margin-top: -40%}
+.TWimg5 {width: auto; height: 500px; margin-left: -50%; margin-top: -40%}
+.TWimg6 {width: auto; height: 500px; margin-left: 150%; margin-top: -70%}
+.TWimg7 {width: auto; height: 500px; margin-left: -250%; margin-top: -70%}
+.TWimg8 {width: auto; height: 500px; margin-left: 150%; margin-top: -60%}
+.TWimg9 {width: auto; height: 500px; margin-left: -300%; margin-top: -70%}
+.TWimg10 {width: auto; height: 500px; margin-left: 125%; margin-top: -50%}
+.TWtitle {font-size: 40px;}
+.TWtext {font-size: 20px;}
+.TWtitle1 {font-size:  50px; color: firebrick;}
+
+
+.Startback {background-image: url("../img/titelbild.png"); background-size: cover; background-repeat: no-repeat;}
+.Startback1 {background-color: gainsboro; width: auto; height: 500px; padding: 50px;}
+.Startfill {width: auto; height: 1000px;}
+.Startfill1  {width: auto; height: 300px;}
+.Startfill2 {width: auto; height: 100px;}
+.Starttextbox {width: 800px; height: 640px; background-color: gainsboro; padding: 40px; margin-left: 40%;}
+.Starttextbox1 {width: 800px; height: 450px; background-color: gainsboro; padding: 40px; margin-left: -40%;}
+.Starttextbox2 {width: 800px; height: 450px; background-color: gainsboro; padding: 40px; margin-left: 40%;}
+.Startimg1 {width: auto; height: 500px; margin-left: -240%; margin-top: -80%;}
+.Startimg2 {width: auto; height: 500px; margin-left: 110%; margin-top: -55%;}
+.Startimg3 {width: auto; height: 500px; margin-left: -240%; margin-top: -50%;}
+
+.Loginfill {width: auto; height: 400px;}
+.Logintext {font-size: 50px;}
+
+.DSfill {width: auto; height: 200px;}
+.DSfill1 {width: auto; height: 1000px;}
+.DStext {color: black; font-size: 30px; background-color: gainsboro; padding: 60px;}
+
+
+
+
+
+.responsivenav {
+    background-color:black;
+    overflow: hidden;
+
+}
+
+.responsivenav a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 14px 16px;
+    display: block;
+    text-align: center;
+    float: left;
+
+}
+.responsivenav a:hover {
+    background-color: #f2f2f2;
+    color: #333333;
+}
+.responsivenav a.active {
+    background-color: darkred;
+}
+.responsivenav .barcontainer {
+    display: none;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.bar1,
+.bar2,
+.bar3 {
+    width: 35px;
+    height: 5px;
+    background-color: #f2f2f2;
+    margin:  6px;
+    transition: 0.4s;
+}
+.change .bar1 {
+    transform: rotate(-45deg) translate(-9px, 6px);
+}
+.change .bar2 {
+    opacity: 0;
+}
+.change .bar3 {
+    transform: rotate(45deg) translate(-8px, -7px);
+}
+@media screen and (max-width: 600px) {
+    .responsivenav a:not(:first-child) {
+        display: none;
+    }
+    .responsivenav .barcontainer {
+        float: right;
+        display: block;
+    }
+    .responsivenav.responsive {
+        position: relative;
+    }
+    .responsivenav.responsive .barcontainer {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .responsivenav.responsive a {
+        float: none;
+        display: block;
+    }
+
+}
+
+.slideshow {
+    width:640px;
+    height:360px;
+    background-color: #eeeeee;
+    margin: auto;
+    background-image:url("../img/bauenslide.png");
+    animation-name: slide;
+    animation-duration:30s;
+    animation-direction: normal;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+@keyframes slide {
+    0% {background-position:0 0;}
+    7.14% {background-position:0 0;}
+   14.28% {background-position:-640px 0;}
+    21.42% {background-position:-640px 0;}
+    28.57% {background-position:-1280px 0;}
+   35.71% {background-position:-1280px 0;}
+    42.85% {background-position:-1920px 0;}
+    50% {background-position:-1920px 0;}
+    57.14% {background-position:-2560px 0;}
+    64.28% {background-position:-2560px 0;}
+    71.42% {background-position:-3200px 0;}
+    78.57% {background-position:-3200px 0;}
+    85.71% {background-position:-3840px 0;}
+   92.85% {background-position:-3840px 0;}
+    100% {background-position:-4480px 0;}
+
+}
